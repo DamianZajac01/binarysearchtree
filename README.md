@@ -3,7 +3,7 @@
 ## Description
 Implementation of Binary Search Tree data structure.
 
-## Technologies used
+## Technologies Used
 - Java 17
 
 ## Methods

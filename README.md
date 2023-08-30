@@ -3,6 +3,9 @@
 ## Description
 Implementation of Binary Search Tree data structure.
 
+## Technologies used
+- Java 17
+
 ## Methods
 - `insert` Inserts a new node.
 - `search` Searches for a node.
